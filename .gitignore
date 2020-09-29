@@ -1,0 +1,5 @@
+.*
+!.gitignore
+!.project
+/tests
+/temps.txt
